@@ -1,4 +1,4 @@
-name := "akka-quickstart-scala"
+name := "moving-crypto"
 
 version := "1.0"
 
